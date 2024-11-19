@@ -17,7 +17,11 @@ This website was created purely for fun and to practice web development skills a
 
 ## How to Use  
 1. Open the `index.html` file in any browser.  
-2. Explore the recipe details and enjoy the visual presentation!  
+2. Explore the recipe details and enjoy the visual presentation!
+
+## Output
+![image](https://github.com/user-attachments/assets/94da5127-71fa-4cbe-ae77-acf88a1a877b)
+![image](https://github.com/user-attachments/assets/14e994b6-5cf0-4f72-8c1f-08501a3d6b2e)
 
 ## Author  
 Created by **Nimshasri Ramisetty**   
